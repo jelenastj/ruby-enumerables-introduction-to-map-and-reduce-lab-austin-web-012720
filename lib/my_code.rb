@@ -18,5 +18,5 @@ def map_to_negativize(source_array)
     while i<source_array.length do
       new_array.push(source_array[i])
     end
-    i+=1
+    i+=1 
   end
